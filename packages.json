@@ -1,0 +1,26 @@
+[
+    {
+        "package": "cookies",
+        "url": "https://github.com/shinyworks/cookies"
+    },
+    {
+        "package": "favawesome",
+        "url": "https://github.com/shinyworks/favawesome"
+    },
+    {
+        "package": "scenes",
+        "url": "https://github.com/shinyworks/scenes"
+    },
+    {
+        "package": "shinybatch",
+        "url": "https://github.com/shinyworks/shinybatch"
+    },
+    {
+        "package": "shinyfocus",
+        "url": "https://github.com/shinyworks/shinyfocus"
+    },
+    {
+        "package": "shinysocial",
+        "url": "https://github.com/shinyworks/shinysocial"
+    }
+]
